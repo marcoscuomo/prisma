@@ -2,5 +2,16 @@
   "name": "prisma",
   "version": "1.0.0",
   "main": "index.js",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "@prisma/client": "4.3.1",
+    "prisma": "^4.3.1",
+    "ts-node-dev": "^2.0.0",
+    "typescript": "^4.8.3"
+  },
+  "repository": "git@github.com:marcoscuomo/prisma.git",
+  "author": "Marcos Souza <marcos.souza@beeleads.com.br>",
+  "devDependencies": {
+    "@types/node": "^18.7.20"
+  }
 }
